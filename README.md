@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Dipak7305
+- 👋 Hi, I’m @Rambo3Dev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - bwxrambo1533@gmail.com
 
 <!---
-Dipak7305/Dipak7305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@Rambo3Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
